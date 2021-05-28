@@ -1,5 +1,9 @@
 # BlockChain
 
-### Little BlockChain Flask application. Builds a blockchaing with each transaction. 
+## Little BlockChain Flask application. Builds a blockchaing with each transaction. 
 
-Credits: https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+### Can be used to explore how blockchain works and test some of its features. 
+
+Idea from HackerNoon
+
+
